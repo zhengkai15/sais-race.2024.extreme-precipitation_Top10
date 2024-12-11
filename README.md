@@ -1,4 +1,7 @@
 # **2024年第二届科学智能大赛地球科学赛道：AI极端降水预报**  
+```shell
+http://competition.sais.com.cn/competitionDetail/532234/format
+```
 ## **Top 10 尝试方案开源代码**
 
 本项目为 **“2024年第二届科学智能大赛地球科学赛道：AI极端降水预报”** 的尝试方案，经过线下测试可进入 **Top 10**。  
